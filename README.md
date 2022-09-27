@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Certified Mobile App Developer, DBA, Software Engineer - Experience with Xcode/iOS/Swift/SwiftUI, Android Studio/Android/IntelliJ/Java, Firebase, Git/Github, DB2/COBOL, SQL/DS, and more.
 <!--
 **TygerMatrixSoftware/TygerMatrixSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
